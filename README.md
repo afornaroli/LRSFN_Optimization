@@ -1,4 +1,4 @@
-# LRSFN_Optimization
+# Low Rank Saddle Free Newton Method for Neural Networks
 #### Mini-Project for the Optimization for Machine Learning course, by Alessandro Fornaroli, Amos Gerber, Sergei Kliavinek
 
 This repository contains three main iPython notebooks, each containing one of the three experiments that we carried (the Digit Classification experiment and two variations of the XOR experiment).
