@@ -8,13 +8,11 @@ All the experiments are independent from each other, and therefore the notebooks
 ## Digit_Classification.ipynb
 This files contains the experiment for Digit Classification. 
 
+## XOR_Continuous.ipynb
+This notebook includes the continuous XOR experiment.
 
 ## XOR_Simple.ipynb
 This notebook illustrates the simple XOR classification experiment
-
-
-## XOR_Continuous.ipynb
-This notebook includes the continuous XOR experiment.
 
 ## Utils_xor.py
 
